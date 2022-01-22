@@ -1,0 +1,28 @@
+.links li a {
+    font-weight: bold;
+}
+
+.descriptor {
+    background-color: black;
+    color: white;
+    font-family: serif;
+    text-align: center;
+}
+
+.ingredients li {
+    background-color: hsl(30, 100%, 80%);
+}
+
+.steps li {
+    background-color: hsl(210, 100%, 80%);
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+.home {
+    font-family: serif;
+    font-weight: bold;
+}
